@@ -1,0 +1,1 @@
+git@github.com:mstrkoy/s08.git
